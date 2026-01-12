@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "0xrdan-plugins",
+  "description": "Claude Code plugins by Dan Monteiro",
+  "owner": {
+    "name": "Dan Monteiro",
+    "url": "https://github.com/0xrdan"
+  },
+  "plugins": [
+    {
+      "name": "claude-router",
+      "description": "Intelligent model routing for Claude Code - routes queries to optimal Claude model (Haiku/Sonnet/Opus) based on complexity, with persistent knowledge system",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/0xrdan/claude-router.git"
+      },
+      "homepage": "https://github.com/0xrdan/claude-router"
+    }
+  ]
+}
