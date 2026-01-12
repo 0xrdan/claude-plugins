@@ -25,3 +25,5 @@ Then install any plugin:
 ## Contributing
 
 Want to suggest a plugin for this marketplace? Open an issue or PR!
+
+If this project, including any of the plugins in it, is working well for you and would like to support me, just help spread the word. Thanks!
