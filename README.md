@@ -1,4 +1,4 @@
-# 0xrdan Claude Code Plugins
+# Claude Code Plugin Marketplace
 
 A curated collection of Claude Code plugins by [Dan Monteiro](https://github.com/0xrdan).
 
