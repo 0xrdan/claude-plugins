@@ -7,7 +7,7 @@ A curated collection of Claude Code plugins by [Dan Monteiro](https://github.com
 Add this marketplace to Claude Code:
 
 ```
-/plugin add marketplace github:0xrdan/claude-plugins
+/plugin marketplace add 0xrdan/claude-plugins
 ```
 
 Then install any plugin:
