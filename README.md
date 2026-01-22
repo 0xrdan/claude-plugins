@@ -20,7 +20,8 @@ Then install any plugin:
 
 | Plugin | Description |
 |--------|-------------|
-| [claude-router](https://github.com/0xrdan/claude-router) | Intelligent model orchestration for Claude Code - routes queries to optimal Claude model (Haiku/Sonnet/Opus) based on complexity |
+| [claude-router](https://github.com/0xrdan/claude-router) | Intelligent model routing - routes queries to optimal Claude model (Haiku/Sonnet/Opus) based on complexity |
+| [claude-knowledge](https://github.com/0xrdan/claude-knowledge) | Persistent project knowledge - captures patterns, quirks, and decisions that survive session boundaries |
 
 ## Contributing
 
