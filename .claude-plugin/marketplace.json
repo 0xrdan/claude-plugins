@@ -16,6 +16,16 @@
         "url": "https://github.com/0xrdan/claude-router.git"
       },
       "homepage": "https://github.com/0xrdan/claude-router"
+    },
+    {
+      "name": "claude-knowledge",
+      "description": "Persistent project knowledge for Claude Code - captures patterns, quirks, and decisions that survive session boundaries",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/0xrdan/claude-knowledge.git"
+      },
+      "homepage": "https://github.com/0xrdan/claude-knowledge"
     }
   ]
 }
